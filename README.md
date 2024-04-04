@@ -24,11 +24,12 @@
     <li>Bcrypt (Password Hashing)</li>
   </ul>
 
-  <hr />
-
-  <a href="https://github.com/MostafaOS21/nextjs-feather-blog">Front end</a>
-
   <h3>Key Features</h3>
   <ul>
     <li>User authentication with secure password hashing and Google OAuth2.0 integration.</li>
     <li>CRUD (Create, Read, Update, Delete) operations for blog posts, users, and comments.</li>
+  </ul>
+
+  <hr />
+
+  <a href="https://github.com/MostafaOS21/nextjs-feather-blog">Front end</a>
